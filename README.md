@@ -1,6 +1,6 @@
 &#x20;\<div align="center">
 
-\<img src="[assets/3cadace11f17a1045faa89c0be6ea794.jpg]" width="100%" />
+\<img src="[assets/introreadme.png]" width="100%" />
 
 # ✦ CECILIA SERRANO ✦
 
