@@ -31,7 +31,7 @@ Hi! I'm Cecilia, a student of **Multiplatform Application Development (DAM)** fr
 **Programming & Development**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,html,css,js,ts,bootstrap" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,ts" />
 </p>
 
 **Databases & Tools**
