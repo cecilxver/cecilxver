@@ -1,6 +1,7 @@
-&#x20;\<div align="center">
 
-\<img src="[assets/3cadace11f17a1045faa89c0be6ea794.jpg]" width="100%" />
+<div align="center">
+
+<img src="assets/3cadace11f17a1045faa89c0be6ea794.jpg" width="100%" />
 
 # ✦ CECILIA SERRANO ✦
 
@@ -8,9 +9,9 @@
 
 **DAM Student · Spain**
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Courier+New&size=17&duration=3000&pause=1000&color=EAD7F5&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Always+learning...+%E2%98%BE;Turning+ideas+into+code+%E2%9C%A7](https://readme-typing-svg.demolab.com?font=Courier+New\&size=17\&duration=3000\&pause=1000\&color=EAD7F5\&center=true\&vCenter=true\&width=500\&lines=Welcome+to+my+GitHub!;Always+learning...+%E2%98%BE;Turning+ideas+into+code+%E2%9C%A7)" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=17&duration=3000&pause=1000&color=EAD7F5&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Always+learning...+%E2%98%BE;Turning+ideas+into+code+%E2%9C%A7" />
 
-\</div>
+</div>
 
 ---
 
@@ -28,13 +29,15 @@ Hi! I'm Cecilia, a student of **Multiplatform Application Development (DAM)** fr
 
 **Programming & Development**
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=java,html,css,js,ts,bootstrap](https://skillicons.dev/icons?i=java,html,css,js,ts,bootstrap)" />
-\</p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,ts,bootstrap" />
+</p>
 
 **Databases & Tools**
 
-\<p> \<img src="[https://skillicons.dev/icons?i=mysql,sqlite,git,github,idea,androidstudio,vscode](https://skillicons.dev/icons?i=mysql,sqlite,git,github,idea,androidstudio,vscode)" /> \</p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,idea,androidstudio,vscode" />
+</p>
 
 ## ☁ CURRENTLY LEARNING
 
@@ -46,17 +49,17 @@ Hi! I'm Cecilia, a student of **Multiplatform Application Development (DAM)** fr
 
 ## ✧ GITHUB STATISTICS
 
-\<div align="center">
+<div align="center">
 
-\<img height="160" src="[https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&bg_color=21132F&title_color=BD91E8&text_color=EAD7F5&icon_color=F2B6D0](https://github-readme-stats.vercel.app/api?username=TU-USUARIO\&show_icons=true\&hide_border=true\&bg_color=21132F\&title_color=BD91E8\&text_color=EAD7F5\&icon_color=F2B6D0)" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&bg_color=21132F&title_color=BD91E8&text_color=EAD7F5&icon_color=F2B6D0" />
 
-\<img height="160" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true&bg_color=21132F&title_color=BD91E8&text_color=EAD7F5](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO\&layout=compact\&hide_border=true\&bg_color=21132F\&title_color=BD91E8\&text_color=EAD7F5)" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true&bg_color=21132F&title_color=BD91E8&text_color=EAD7F5" />
 
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
 ### ☾ DREAM · CODE · REPEAT ✦
 
@@ -64,4 +67,5 @@ Hi! I'm Cecilia, a student of **Multiplatform Application Development (DAM)** fr
 
 *Thanks for visiting my little corner of GitHub!* ♡
 
-\</div>
+</div>
+
