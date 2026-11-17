@@ -50,13 +50,15 @@ Hi! I'm Cecilia, a student of **Multiplatform Application Development (DAM)** fr
 
 ## ✧ GITHUB STATISTICS
 
+
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&bg_color=21132F&title_color=BD91E8&text_color=EAD7F5&icon_color=F2B6D0" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=cecilxver&show_icons=true&hide_border=true&bg_color=21132F&title_color=BD91E8&text_color=EAD7F5&icon_color=F2B6D0" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true&bg_color=21132F&title_color=BD91E8&text_color=EAD7F5" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cecilxver&layout=compact&hide_border=true&bg_color=21132F&title_color=BD91E8&text_color=EAD7F5" />
 
 </div>
+
 
 ---
 
